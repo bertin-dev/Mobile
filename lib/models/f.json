@@ -1,0 +1,23 @@
+{
+    "_id": "659fb8f8d279bb7af9fc2bb3",
+    "status": "ACTIVE",
+    "event": "issuing.created.successful",
+    "reference": "732a6602-0700-4f05-a3bb-3fef9d4670a4",
+    "createdAt": "2024-01-11T09:46:50.634Z",
+    "amount": "0",
+    "brand": "MASTERCARD",
+    "user": "659e90e1d279bb7af9fc2af7",
+    "__v": "0",
+    "mapId": "8dbe0533-e2bc-4bb6-bad2-699befe10ac1",
+    "maskedNumber": "559292******9242",
+    "name": "Test Test",
+    "balanceUpdatedAt": "0001-01-01T00:00:00.000Z",
+    "city": "Dover County",
+    "countryCode": "US",
+    "cvv": "884",
+    "expiredAt": "01/26",
+    "number": "5592929266509242",
+    "postalCode": "19901",
+    "stateCode": "Delaware",
+    "street": "8 The Green Ste R"
+}
